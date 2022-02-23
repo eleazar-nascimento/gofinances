@@ -31,9 +31,7 @@ export function Dashboard() {
           <Icon name="power" />
         </UserWrapper>
       </Header>
-      <HighlightCards 
-
-      >
+      <HighlightCards>
         <HighlightCard />
         <HighlightCard />
         <HighlightCard />
